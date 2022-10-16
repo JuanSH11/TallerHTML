@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+}
+.enlace {
+  color: black;
+  font-size: 16px;
+}
+
+.parrafo {
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.imagen {
+  height: 90%;
+  width: 90%;
+}
